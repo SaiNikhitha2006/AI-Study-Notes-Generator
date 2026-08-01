@@ -101,7 +101,33 @@ streamlit run app.py
 
 ## 📸 Screenshots
 
-Screenshots will be added soon.
+### 🏠 Home Page
+
+![Home](screenshots/home.png)
+
+---
+
+### 📄 File Upload
+
+![Upload](screenshots/upload.png)
+
+---
+
+### 👀 Document Preview
+
+![Preview](screenshots/preview.png)
+
+---
+
+### 🤖 Generated Study Notes
+
+![Results](screenshots/results.png)
+
+---
+
+### 📥 Download Notes
+
+![Download](screenshots/download.png)
 
 ---
 
