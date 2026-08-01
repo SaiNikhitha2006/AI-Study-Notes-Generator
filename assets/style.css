@@ -1,0 +1,126 @@
+/* Background */
+.stApp {
+    background: linear-gradient(to right, #eef2ff, #ffffff);
+}
+
+/* Main Container */
+.block-container {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+/* Title */
+h1 {
+    color: #1e3a8a;
+    text-align: center;
+    font-size: 45px;
+    font-weight: bold;
+}
+
+/* Subtitle */
+h3 {
+    color: #475569;
+    text-align: center;
+}
+
+/* Buttons */
+.stButton>button {
+
+    width:100%;
+
+    background:#2563eb;
+
+    color:white;
+
+    border-radius:15px;
+
+    height:55px;
+
+    font-size:20px;
+
+    font-weight:bold;
+
+    border:none;
+
+    transition:0.3s;
+}
+
+.stButton>button:hover{
+
+    background:#1d4ed8;
+
+    transform:scale(1.02);
+
+}
+
+/* File Uploader */
+
+div[data-testid="stFileUploader"]{
+
+    background:white;
+
+    border-radius:15px;
+
+    padding:25px;
+
+    border:2px dashed #2563eb;
+
+}
+
+/* Metrics */
+
+[data-testid="metric-container"]{
+
+    background:white;
+
+    border-radius:15px;
+
+    padding:15px;
+
+    box-shadow:0px 3px 10px rgba(0,0,0,0.1);
+
+}
+
+/* Tabs */
+
+button[data-baseweb="tab"]{
+
+    font-size:18px;
+
+    font-weight:bold;
+
+}
+
+/* Download Button */
+
+.stDownloadButton>button{
+
+    background:#16a34a;
+
+    color:white;
+
+    border-radius:15px;
+
+    width:100%;
+
+}
+
+.stDownloadButton>button:hover{
+
+    background:#15803d;
+
+}
+
+/* Sidebar */
+
+section[data-testid="stSidebar"]{
+
+    background:#1e293b;
+
+}
+
+section[data-testid="stSidebar"] *{
+
+    color:white;
+
+}
