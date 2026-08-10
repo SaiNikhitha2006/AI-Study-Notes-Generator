@@ -82,7 +82,7 @@ with st.sidebar:
 
     st.markdown("---")
 
-    st.info("Made by Sai Nikhitha")
+    
 
 # -----------------------------
 # Title
