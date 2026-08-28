@@ -82,7 +82,10 @@ with st.sidebar:
 
     st.markdown("---")
 
+======= HEAD
     
+=======
+======= 5101d31 (Fix deployment dependencies and update app)
 
 # -----------------------------
 # Title
